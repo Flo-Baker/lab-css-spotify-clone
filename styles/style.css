@@ -5,4 +5,21 @@ Text: 1A1A1A
 Green: #00B172
 White: #FFF
 
+
 */
+
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova&display=swap');
+
+#nav-bar {
+    display: flexbox;
+    position: fixed;
+
+}
+
+#logo {
+    max-width: auto;
+}
+
+.green {
+    background-color: #00B172;
+}
